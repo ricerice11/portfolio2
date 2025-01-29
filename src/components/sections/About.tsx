@@ -1,11 +1,8 @@
 "use client";
 
 import { 
-    Calendar, 
-    MapPin, 
     Briefcase, 
-    GraduationCap, 
-    Award,
+    GraduationCap,
     Target,
     Heart,
     Coffee

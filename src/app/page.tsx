@@ -1,8 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import { 
-  HomeIcon, UserCircle, Code2, Mail, 
+  HomeIcon, UserCircle, Mail, 
   Github, Linkedin, Globe2, Trophy, 
   Rocket, Star 
 } from "lucide-react";
